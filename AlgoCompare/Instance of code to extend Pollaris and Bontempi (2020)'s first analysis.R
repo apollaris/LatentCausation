@@ -1,5 +1,5 @@
 #Main author : A. Pollaris
-#Date : October 12, 2023
+#Date : October 13, 2023
 #Concern: implementations in the R language to generate data and perform causal inference. This code can help providing results to compare 3 causal inference algorithms:
 
 #1. The factor scores computation followed by the Direction Dependence Analysis independence component (FSC+DDA)
